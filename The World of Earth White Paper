@@ -6,6 +6,8 @@ Logo: (To be decided)
 
 Publication Date: July 22, 2024
 
+For collaboration, please email haoming7106@gmail.com.
+
 Abstract
 The "World of Earth" project aims to create a decentralized government framework utilizing blockchain technology and smart contracts to achieve a more transparent, fair, and participatory governance system. We invite developers worldwide to join us in building the governance model of the future.
 
